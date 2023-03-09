@@ -1,1 +1,1 @@
-# repo_thursday
+# repo_thu
